@@ -2,7 +2,7 @@
 
 
 ### 1. copy the link below to your terminal
-```git clone https://github.com/Sugarcothe/marvelo.git```
+```git clone https://github.com/UkachiVictor/Universities.git```
 
 ### 2. Navigate to the cloned project
 ```cd marvelo```
