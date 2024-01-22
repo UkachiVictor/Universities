@@ -61,7 +61,7 @@ export const characters = [
     alias: "Redeemer's University",
     about: ["Social responsibility", "Character development","Resourcefulness"],
     team: "Private University",
-    img1: "https://guardian.ng/wp-content/uploads/2016/04/Redeemer.jpg",
+    img1: "https://hallmarknews.com/wp-content/uploads/2023/08/Compress_20230822_074443_3106.jpg",
     homeworld: "Nigeria",
     description:
       "",
